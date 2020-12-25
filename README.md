@@ -12,6 +12,6 @@ Check BMI with metric units
 
 Check BMI with English units
 
-![](images/im2.jpeg)
+![](images/im3.jpeg)
 
 
